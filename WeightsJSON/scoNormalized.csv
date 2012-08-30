@@ -1,0 +1,97 @@
+type,cat,subcat,average value,normalization
+Expenditure,Community Development,Planning,654068.5312,1.52889E-06
+Expenditure,Culture and Leisure,Community Center and Auditoriums,201999.5292,4.95051E-06
+Expenditure,Culture and Leisure,Golf Courses,210286.041,4.75543E-06
+Expenditure,Culture and Leisure,Libraries,114751.7019,8.71447E-06
+Expenditure,Culture and Leisure,Marinas and Wharfs,6.78E-09,147577180.3
+Expenditure,Culture and Leisure,Museums,1131.490988,0.00088379
+Expenditure,Culture and Leisure,Other,12754.48325,7.84038E-05
+Expenditure,Culture and Leisure,Parks and Recreation,2867447.65,3.48742E-07
+Expenditure,Culture and Leisure,Sports Arenas and Stadiums,6.78E-09,147577180.3
+Expenditure,General Government,Legislative,319120.4263,3.13361E-06
+Expenditure,General Government,Management and Support,2812368.335,3.55572E-07
+Expenditure,Health,Cemeteries,2682.645833,0.000372766
+Expenditure,Health,Hospitals and Sanitariums,2.76E-25,3.6274E+24
+Expenditure,Health,Other,71386.76401,1.40082E-05
+Expenditure,Health,Physical and Mental Health,35923.48986,2.78369E-05
+Expenditure,Health,Sewers,2752110.265,3.63358E-07
+Expenditure,Health,Solid Waste,244958.2818,4.08233E-06
+Expenditure,Other,Other,24.72687763,0.040441823
+Expenditure,Public Safety,Animal Regulation,163804.5547,6.10484E-06
+Expenditure,Public Safety,Disaster Preparedness,1815.786994,0.000550725
+Expenditure,Public Safety,Emergency Medical Services,504709.7388,1.98134E-06
+Expenditure,Public Safety,Fire,3559749.19,2.80919E-07
+Expenditure,Public Safety,Other,19023.80199,5.25657E-05
+Expenditure,Public Safety,Police,6627650.893,1.50883E-07
+Expenditure,Public Safety,Street Lighting,69763.12911,1.43342E-05
+Expenditure,Public Safety,Weed Abatement,1522.578552,0.000656781
+Expenditure,Public Utilities,Electric,0.025250887,39.60256953
+Expenditure,Public Utilities,Gas,0.006423651,155.6747102
+Expenditure,Public Utilities,Other,1088.797128,0.000918445
+Expenditure,Public Utilities,Water,4558200.715,2.19385E-07
+Expenditure,Regulation Enforcement,Community Promotion,733572.5298,1.36319E-06
+Expenditure,Regulation Enforcement,Employment,13178.30998,7.58823E-05
+Expenditure,Regulation Enforcement,Housing,79261.89916,1.26164E-05
+Expenditure,Regulation Enforcement,Other,84487.09214,1.18361E-05
+Expenditure,Regulation Enforcement,Redevelopment,2937.998605,0.000340368
+Expenditure,Total Expenditure,Total Expenditures,37112953.7,2.69448E-08
+Expenditure,Transportation,Airports,861.9503783,0.00116016
+Expenditure,Transportation,Other,18726.87619,5.33992E-05
+Expenditure,Transportation,Parking Facilities,749.123781,0.001334893
+Expenditure,Transportation,Ports and Harbors,0.000131804,7587.022523
+Expenditure,Transportation,Public Transit,17866.93385,5.59693E-05
+Expenditure,Transportation,Street Trees and Landscaping,291833.8437,3.42661E-06
+Expenditure,Transportation,"Streets, Highways, and Storm Drains",6527560.081,1.53197E-07
+Revenue,Current Service Charges,Airport Revenues,161.7815597,0.006181174
+Revenue,Current Service Charges,Electric Revenues,0.306126344,3.266625104
+Revenue,Current Service Charges,"Engineering Fees, Inspections, and Other",93742.59464,1.06675E-05
+Revenue,Current Service Charges,Gas Revenues,0.121740739,8.214177209
+Revenue,Current Service Charges,Golf Course Fees,129001.7037,7.75184E-06
+Revenue,Current Service Charges,Hospital Revenues,6.84E-18,1.4617E+17
+Revenue,Current Service Charges,Other Current Service Charges,309223.6104,3.23391E-06
+Revenue,Current Service Charges,Parking Facilities,177.1152242,0.005646042
+Revenue,Current Service Charges,Parks and Recreation Fees,409273.1907,2.44336E-06
+Revenue,Current Service Charges,Port and Harbor Revenues,0.034284433,29.16775692
+Revenue,Current Service Charges,Quasi-External Transactions,70261.321,1.42326E-05
+Revenue,Current Service Charges,Sewer Service Charges and Connection Fees,902118.6278,1.1085E-06
+Revenue,Current Service Charges,Solid Waste Revenues,95088.67779,1.05165E-05
+Revenue,Current Service Charges,Special Fire Department Services and First Aid and Ambulance Charges,44344.32496,2.25508E-05
+Revenue,Current Service Charges,Special Police Department Services,30140.34567,3.31781E-05
+Revenue,Current Service Charges,Transit Revenues,57.62730065,0.017352886
+Revenue,Current Service Charges,Water Service Charges and Connection Fees,844605.6003,1.18398E-06
+Revenue,Current Service Charges,"Zoning, Subdivision, and Plan Checking Fees",196666.778,5.08474E-06
+Revenue,Fines and Forfeitures,"Other Fines, Forfeitures, and Penalties",17368.57828,5.75752E-05
+Revenue,Fines and Forfeitures,Vehicle Code Fines,109704.6724,9.11538E-06
+Revenue,Intergovernmental,County Grants,38615.91505,2.58961E-05
+Revenue,Intergovernmental,Federal Grants,603912.0972,1.65587E-06
+Revenue,Intergovernmental,Other State Grants,615920.2408,1.62359E-06
+Revenue,Intergovernmental,Other Taxes In-Lieu,0.012965644,77.12690824
+Revenue,Intergovernmental,State Gasoline Tax,436417.9679,2.29138E-06
+Revenue,Intergovernmental,State Homeowners Property Tax Relief,40126.84952,2.4921E-05
+Revenue,Intergovernmental,State Motor Vehicle In-Lieu Tax,240753.829,4.15362E-06
+Revenue,Licenses and Permits,Construction Permits,479868.304,2.08391E-06
+Revenue,Licenses and Permits,Other Licenses and Permits,67243.74219,1.48713E-05
+Revenue,Other Revenues,Contributions from Non-Government Sources,10293.42458,9.71494E-05
+Revenue,Other Revenues,Notes and Other,14167.53525,7.05839E-05
+Revenue,Other Revenues,Other Financing Sources,6.84E-18,1.4617E+17
+Revenue,Other Revenues,Other Sources of Revenues,284832.856,3.51083E-06
+Revenue,Other Revenues,Sale of Bonds,5.54E-05,18066.46969
+Revenue,Other Revenues,Sale of Real and Personal Property,4463.856471,0.000224022
+Revenue,Revenue From Use of Money and Property,Investment Earnings,1055254.506,9.47639E-07
+Revenue,Revenue From Use of Money and Property,"Rents, Concessions, Royalties and Other",77338.06122,1.29302E-05
+Revenue,Special Benefit Assessments,Fire and Paramedics,1174298.808,8.51572E-07
+Revenue,Special Benefit Assessments,Lighting,207066.9683,4.82936E-06
+Revenue,Special Benefit Assessments,Other,67864.66072,1.47352E-05
+Revenue,Special Benefit Assessments,Police,8109.015333,0.00012332
+Revenue,Taxes,Business License Taxes,107465.8997,9.30528E-06
+Revenue,Taxes,Franchises,539636.8061,1.8531E-06
+Revenue,Taxes,Other Non-Property Taxes,2389756.816,4.18453E-07
+Revenue,Taxes,Other Property Taxes,1718278.86,5.81978E-07
+Revenue,Taxes,Real Property Transfer Taxes,87186.61956,1.14696E-05
+Revenue,Taxes,Sales and Use Taxes,1399193.028,7.14698E-07
+Revenue,Taxes,Secured and Unsecured Property Tax,2325188.4,4.30073E-07
+Revenue,Taxes,Transient Lodging Taxes,222433.7065,4.49572E-06
+Revenue,Taxes,Transportation Tax,288998.2425,3.46023E-06
+Revenue,Taxes,Utility Users Tax,1864.591458,0.000536311
+Revenue,Taxes,Voter Approved Indebtedness Property Tax,38.75510367,0.025803053
+Revenue,Total Revenue,Total Functional and General Revenues,17757998.63,5.63127E-08
